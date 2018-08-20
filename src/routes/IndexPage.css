@@ -1,0 +1,76 @@
+.layout{
+  margin: 0rem auto;
+  max-width: 800px;
+}
+
+.inputAccount{
+  width: 50%;
+  height: 50px;
+  margin: 1rem 0.5rem;
+  font-size: 18px; 
+}
+
+.inputMessage{
+  width: 50%;
+  height: 100px;
+  margin: 1rem 0.5rem;
+  font-size: 18px; 
+}
+
+.addButton{
+  width: 80px;
+  height: 50px;
+  background:	#008B45;
+  font-size: 25px;
+  color: #FFFFFF;
+  margin: 1rem 0.5rem;
+}
+
+.list{
+  width: 100%;
+  margin: 1rem 0rem;
+  font-size: 18px;
+}
+
+.listItem{
+  width: 80%;
+  height: 80px;
+  font-size: 25px;
+  margin: 1rem 0.5rem;
+  border-bottom: 2px solid #000000;
+}
+
+.messageLayout{
+  width: 100%;
+  height: 80px;
+}
+
+.editButton{
+  position: relative;
+  left: 25%;
+  top: 0.5rem;
+  width: 100px;
+  height: 50px;
+  font-size: 25px;
+  /* background: 	#6fb7b7;
+  color: #FFFFFF; */
+  margin: 1rem;
+}
+
+.deleteButton{
+  position: relative;
+  left: 25%;
+  top: 0.5rem;
+  width: 100px;
+  height: 50px;
+  font-size: 25px;
+  background: #8B2323;
+  color: #FFFFFF;
+  margin: 1rem;
+}
+
+
+
+/* .check{
+  text-decoration: line-through;
+} */
